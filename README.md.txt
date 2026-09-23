@@ -1,4 +1,4 @@
- CodeAlpha Handwritten Character Recognition
+  CodeAlpha Handwritten Character Recognition
 
 A handwritten character recognition system built using a Convolutional Neural Network (CNN) and the EMNIST Balanced dataset.
 
